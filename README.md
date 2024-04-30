@@ -23,6 +23,14 @@ In a multilingual and diverse linguistic landscape like India, bridging the gap 
 - Content creation
 - Effective communication in India's multilingual society
 
+## Contributors
+- Vaishnavi Dave(https://github.com/vaish414)
+- Drashti Joshi()
+- Taneeshk Patel()
+- Kareena Gangwani()
+- Megh Patel(https://github.com/mdpatel702)
+- Shamik Patel()
+
 ## License
 All Rights Reserved
 
